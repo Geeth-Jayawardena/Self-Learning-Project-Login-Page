@@ -97,3 +97,55 @@ ul li a:hover {
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
 }
+
+.logoKeyword {
+    color: #fb5607;
+    font-size: 70px;
+}
+
+.content {
+    width: 1800px;
+    height: auto;
+    margin: auto;
+    color: #ffffff;
+    position: relative;
+}
+
+.content .text {
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.content h1 {
+    font-family: "Times New Roman";
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9px;
+    letter-spacing: 2px;
+}
+
+.content .contact {
+    width: 160px;
+    height: 40px;
+    background-color: #fb5607;
+    border: none;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+
+.content .contact a {
+    text-decoration: none;
+    color: #000000;
+    transition: 0.3s ease;
+}
+
+.contact:hover {
+    background-color: #f77f00;
+}
