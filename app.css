@@ -149,3 +149,45 @@ ul li a:hover {
 .contact:hover {
     background-color: #f77f00;
 }
+
+.form {
+    width: 350px;
+    height: 480px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8)50%, rgba(0, 0, 0, 0.8)50%);
+    position: absolute;
+    top: 120px;
+    left: 1400px;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.form h2 {
+    width: 330px;
+    height: 32px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #f77f00;
+    font-size: 22px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+    margin-bottom: 15px;
+
+}
+
+.form input {
+    width: 340px;
+    height: 30px;
+    background: transparent;
+    border: 1px solid #fb5607;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+
+}
