@@ -217,9 +217,50 @@ ul li a:hover {
     background: #ffffff;
     color: #f77f00;
 }
+
 .btnn a {
     text-decoration: none;
     color: #000000;
     font-weight: bold;
+}
+
+.form .link {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.form .link a {
+    text-decoration: none;
+    color: #fb5607;
+}
+
+.form .liw {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+.icon {
+    width: 340px;
+}
+
+.icon a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.icon ion-icon {
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+
+.icon ion-icon:hover {
+    color: #fb5607;
 
 }
